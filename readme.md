@@ -133,3 +133,4 @@ If you want, I can: generate the `prompt.txt` files, run local token counts for 
 3.Yaswanth Kumar 	syk.24u10357@nitdgp.ac.in
 4.Sudipto Maity 	sm.24u10318@nitdgp.ac.in
 5.Aryan kumar 		ak.24u10320@nitdgp.ac.in
+6.Seepani Roshini	sr.24u10321@nitdgp.ac.in
