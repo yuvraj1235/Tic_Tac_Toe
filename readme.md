@@ -126,3 +126,10 @@ Create `prompt.txt` containing the exact prompt you sent to the model, and the s
 - Run `token_count.py` on the exact prompt files to get exact counts (if `tiktoken` is available).
 
 If you want, I can: generate the `prompt.txt` files, run local token counts for each prompt using the heuristic, and commit them into the repo. Tell me which option you prefer.
+
+	NAME				MAIL.ID
+1.Yubraj sau 		ys.24u10345@nitdgp.ac.in
+2.Jyothi Kiran 		gjk.24u10352@nitdgp.ac.in
+3.Yaswanth Kumar 	syk.24u10357@nitdgp.ac.in
+4.Sudipto Maity 	sm.24u10318@nitdgp.ac.in
+5.Aryan kumar 		ak.24u10320@nitdgp.ac.in
